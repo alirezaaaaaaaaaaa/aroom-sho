@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/aroom-sho/static/js/main.b13c5409.js",
+    "main.css": "/aroom-sho/static/css/main.4154d231.css",
+    "main.js": "/aroom-sho/static/js/main.b979b1f1.js",
+    "static/media/hero.jpg": "/aroom-sho/static/media/hero.f6684e7220754fcadcb8.jpg",
     "index.html": "/aroom-sho/index.html",
-    "main.b13c5409.js.map": "/aroom-sho/static/js/main.b13c5409.js.map"
+    "main.4154d231.css.map": "/aroom-sho/static/css/main.4154d231.css.map",
+    "main.b979b1f1.js.map": "/aroom-sho/static/js/main.b979b1f1.js.map"
   },
   "entrypoints": [
-    "static/js/main.b13c5409.js"
+    "static/css/main.4154d231.css",
+    "static/js/main.b979b1f1.js"
   ]
 }
