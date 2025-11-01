@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aroom-sho/static/css/main.a64f2806.css",
-    "main.js": "/aroom-sho/static/js/main.ea9694cf.js",
+    "main.css": "/aroom-sho/static/css/main.d7d2eb22.css",
+    "main.js": "/aroom-sho/static/js/main.e2a9fc94.js",
     "static/js/453.00b85205.chunk.js": "/aroom-sho/static/js/453.00b85205.chunk.js",
     "index.html": "/aroom-sho/index.html",
-    "main.a64f2806.css.map": "/aroom-sho/static/css/main.a64f2806.css.map",
-    "main.ea9694cf.js.map": "/aroom-sho/static/js/main.ea9694cf.js.map",
+    "main.d7d2eb22.css.map": "/aroom-sho/static/css/main.d7d2eb22.css.map",
+    "main.e2a9fc94.js.map": "/aroom-sho/static/js/main.e2a9fc94.js.map",
     "453.00b85205.chunk.js.map": "/aroom-sho/static/js/453.00b85205.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a64f2806.css",
-    "static/js/main.ea9694cf.js"
+    "static/css/main.d7d2eb22.css",
+    "static/js/main.e2a9fc94.js"
   ]
 }
